@@ -1,0 +1,149 @@
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="850be784-4f51-4be9-81f9-85eb725b4b91" name="Changes" comment="">
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/FileReader/pom.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/FileReader/pom.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/Main/pom.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/Main/pom.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/pom.xml" beforeDir="false" afterPath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/pom.xml" afterDir="false" />
+      <change beforePath="${symbol_dollar}PROJECT_DIR${symbol_dollar}/src/main/java/${packageInPathFormat}/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="${symbol_dollar}PROJECT_DIR${symbol_dollar}" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2i6N0lYvHbEkvwiXC4smCfF3P0z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JAR Application.FileReader-${version}.jar.executor": "Run",
+    "JAR Application.Main-${version}-jar-with-dependencies.jar.executor": "Run",
+    "JAR Application.Main-${version}.jar.executor": "Run",
+    "JAR Application.${artifactId}-${version}-jar-with-dependencies.jar.executor": "Run",
+    "JAR Application.${artifactId}-${version}.jar.executor": "Run",
+    "Maven.${artifactId} [archetype:create-from-project,-X].executor": "Run",
+    "Maven.${artifactId} [archetype:create-from-project].executor": "Run",
+    "Maven.${artifactId} [clean].executor": "Run",
+    "Maven.${artifactId} [install].executor": "Run",
+    "Maven.${artifactId} [package].executor": "Run",
+    "Maven.${artifactId} [test].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "openjdk-21",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Maven.${artifactId} [archetype:create-from-project,-X]">
+    <configuration name="FileReader-${version}.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="${symbol_dollar}PROJECT_DIR${symbol_dollar}/FileReader/target/FileReader-${version}.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main-${version}-jar-with-dependencies.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="${symbol_dollar}PROJECT_DIR${symbol_dollar}/Main/target/Main-${version}-jar-with-dependencies.jar" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main-${version}.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="${symbol_dollar}PROJECT_DIR${symbol_dollar}/Main/target/Main-${version}.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="${artifactId}-${version}-jar-with-dependencies.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/${artifactId}-${version}-jar-with-dependencies.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="${artifactId}-${version}.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="${symbol_dollar}PROJECT_DIR${symbol_dollar}/target/${artifactId}-${version}.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="${artifactId} [archetype:create-from-project,-X]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="archetype:create-from-project" />
+                <option value="-X" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="${symbol_dollar}PROJECT_DIR${symbol_dollar}" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JAR Application.FileReader-${version}.jar" />
+      <item itemvalue="JAR Application.Main-${version}-jar-with-dependencies.jar" />
+      <item itemvalue="JAR Application.Main-${version}.jar" />
+      <item itemvalue="JAR Application.${artifactId}-${version}-jar-with-dependencies.jar" />
+      <item itemvalue="JAR Application.${artifactId}-${version}.jar" />
+      <item itemvalue="Maven.${artifactId} [archetype:create-from-project,-X]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.Main-${version}-jar-with-dependencies.jar" />
+        <item itemvalue="JAR Application.FileReader-${version}.jar" />
+        <item itemvalue="JAR Application.Main-${version}.jar" />
+        <item itemvalue="JAR Application.${artifactId}-${version}-jar-with-dependencies.jar" />
+        <item itemvalue="JAR Application.${artifactId}-${version}.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="850be784-4f51-4be9-81f9-85eb725b4b91" name="Changes" comment="" />
+      <created>1718806849470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718806849470</updated>
+    </task>
+    <servers />
+  </component>
+</project>
